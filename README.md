@@ -45,6 +45,11 @@ Integrated PrimeIcons for better UI visuals.</br>
 
 Displayed toast notifications for user interactions like job creation, updates, and deletions.</br>
 
+### DEMO
+https://github.com/user-attachments/assets/f7190b8c-ef78-4098-95b4-50f0c67acd38
+
+
+
 ## Project Setup
 
 ```sh
